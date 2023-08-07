@@ -1,0 +1,17 @@
+[
+  {
+    "game_category": 128,
+    "game_name": { "cn": "火箭任务", "en": "Cash or crash", "tw": "火箭任务" },
+    "hot": false,
+    "icon_path": "https://sds.cool-games.online/game_icons/FUNKY/en/CashOrCrash_Crash_Icon_300x300.png",
+    "is_comming_soon": false,
+    "maintence": false,
+    "new": true,
+    "order_priority": 0,
+    "show": true,
+    "studio": "funky",
+    "studio_game_code": "602817",
+    "studio_game_id": "602817",
+    "tester_can_play": false
+  }
+]
